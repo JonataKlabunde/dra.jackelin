@@ -19,11 +19,11 @@ menu__settings:
     - title: 'Pages'
       submenu:
       - url: '/about/'
-        title: 'About'
+        title: 'Sobre mim'
       - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+        title: 'Contato'
+      # - url: '/elements/'
+      #   title: 'Elements'
 
 
 #-------------------------------

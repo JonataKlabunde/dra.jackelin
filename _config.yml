@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/dra.jackelin" # the subpath of your site, e.g. /blog
+baseurl: "/dra.jackelin" # the subpath of your site, e.g. /blog - {{site.baseurl}}
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 

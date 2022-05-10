@@ -32,7 +32,7 @@ author:
   author__name: Maria Jackelin Gil Ozuna
   # author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   author__bio: “O segredo da saúde mental e corporal está em não se lamentar pelo passado, não se preocupar com o futuro, nem se adiantar aos problemas, mas viver sabia e seriamente o presente.” Buda
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/dra.jackelin/images/01-1.jpg'
 
 social:
 # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -52,7 +52,7 @@ hero:
   hero__title: Oi sou a <br> Dra Jackelin, estou aqui para te ajudar!
   # hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   hero__description: Não tenha medo de falhar, e se falhar não tenha medo de chorar, corrija suas rotas, mas não desista!
-  hero__image: '/images/01.jpg'
+  hero__image: '/dra.jackelin/images/01.jpg'
 
 
 #-------------------------------

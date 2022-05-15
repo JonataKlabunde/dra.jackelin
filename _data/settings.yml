@@ -36,6 +36,8 @@ author:
 social:
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/jackelin.gil.3"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/drajackelingil/"}
+- {icon: "ion-logo-whatsapp", link: "https://api.whatsapp.com/send?phone=5547984116996&text=Oi!%20Acabo%20de%20vir%20do%20site%20da%20Dra%20Jackelin%20Gil%2C%20e%20gostaria%20de%20agendar%20uma%20consulta!"}
+
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -73,19 +75,19 @@ testimonial__description:
 
 testimonial__items:
   - name: "Érika Freire"
-    image: "/images/client-erika.jpg"
+    image: "/images/clients/erika.jpg"
     content : "Você tem toda razão, vou seguir seus conselhos. Continue sempre essa profissional humana e maravilhosa que você é 👏👏👏👏"
     # link: "https://twitter.com/"
     # designation: "Lettering Artist"
 
   - name: "Dra. Andréa Nolli Malluta"
-    image: "/images/client-andrea.jpg"
+    image: "/images/clients/andrea.jpg"
     content : "Quando cuidamos de nós abrimos espaço emocional pra cuidar dos outros com maior disponibilidade e amor. Vc é uma excelente profissional! 👏👏👏"
   #   designation: "Designer"
   #   link: "https://facebook.com/"
 
   - name: "Carolina Queiroz"
-    image: "/images/client-carolina.jpg"
+    image: "/images/clients/carolina.jpg"
     content : "Excelente médica, inteligentíssima 😘😘😘"
   #   designation: "Web developer"
   #   link: "https://twitter.com/"

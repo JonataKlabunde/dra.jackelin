@@ -16,12 +16,12 @@ menu__settings:
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Outros'
-      submenu:
-      - url: '/about/'
-        title: 'Sobre mim'
-      - url: '/contact/'
-        title: 'Contato'
+    # - title: 'Outros'
+      # submenu:
+      # - url: '/about/'
+      #   title: 'Sobre mim'
+      # - url: '/contact/'
+      #   title: 'Contato'
       # - url: '/elements/'
       #   title: 'Elements'
 
@@ -134,10 +134,10 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - url: '/about/'
-      title: 'Sobre mim'
-    - url: '/contact/'
-      title: 'Contato'
+    # - url: '/about/'
+    #   title: 'Sobre mim'
+    # - url: '/contact/'
+    #   title: 'Contato'
     # - url: '/elements/'
     #   title: 'Elements'
 

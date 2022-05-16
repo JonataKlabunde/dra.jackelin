@@ -16,7 +16,7 @@ menu__settings:
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    # - title: 'Outros'
+    - title: 'Outros'
       # submenu:
       # - url: '/about/'
       #   title: 'Sobre mim'
@@ -56,10 +56,9 @@ hero:
 #-------------------------------
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__identifier: https://jackelin.us13.list-manage.com/subscribe/post?u=bc1fd313eca3ae44ed3962f13&amp;id=e7f9df703d # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Seu endereço de email...
 mailchimp__button__text: Receber atualizações
-
 
 #-------------------------------
 # Projects Settings
